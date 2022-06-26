@@ -23,4 +23,4 @@ Entregables diplomatura en ciencia de Datos 2022
 - Entregable 1
     - [Regresion en Boston](/introml/Grupo_10_IntroML_Entregable_Parte_1.ipynb)
 - Entregable 2
-    - [Titulo entregable 2](/introml/Grupo_10_IntroML_Entregable_Parte_2.ipynb)
+    - [Armado de un esquema de aprendizaje automático](/introml/Grupo_10_IntroML_Entregable_Parte_2.ipynb)
