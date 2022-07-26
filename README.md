@@ -27,5 +27,5 @@ Entregables diplomatura en ciencia de Datos 2022
 
 ### Aprendizaje Supervisado
 - Trabajo Practico 
-    - [Spaceship Titanic](/Aprendizaje%20Supervisado)
+    - [Spaceship Titanic](/Aprendizaje%20Supervisado/TP4_SP.ipynb)
     
