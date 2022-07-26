@@ -24,3 +24,8 @@ Entregables diplomatura en ciencia de Datos 2022
     - [Regresion en Boston](/introml/Grupo_10_IntroML_Entregable_Parte_1.ipynb)
 - Entregable 2
     - [Armado de un esquema de aprendizaje automático](/introml/Grupo_10_IntroML_Entregable_Parte_2.ipynb)
+
+### Aprendizaje Supervisado
+- Trabajo Practico 
+    - [Spaceship Titanic](/Aprendizaje%20Supervisado/TP4_SP.ipynb)
+    
